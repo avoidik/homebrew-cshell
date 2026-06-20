@@ -3,7 +3,7 @@ class Cshell < Formula
   homepage "https://github.com/avoidik/cshell"
   url "https://github.com/avoidik/cshell.git", tag: "v0.1.0", revision: "c7342df73e724ad270a552860e8a5e6eceb4afae"
   license "MIT"
-  head "https://github.com/avoidik/cshell.git", branch: "main"
+  head "https://github.com/avoidik/cshell.git", branch: "master"
 
   depends_on "go" => :build
 
